@@ -1,0 +1,11 @@
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\obj\Debug\NUnitTests.csproj.AssemblyReference.cache
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\obj\Debug\NUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\bin\Debug\NUnitTests.dll
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\bin\Debug\TPZ.exe
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\bin\Debug\TPZ.pdb
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\obj\Debug\NUnitTests.csproj.CopyComplete
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\obj\Debug\NUnitTests.dll
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\NUnitTests\obj\Debug\NUnitTests.pdb

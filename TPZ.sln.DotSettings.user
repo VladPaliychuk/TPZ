@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22cdd8c0_002D9751_002D4da4_002D9652_002D965b208df406/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Convert_ShouldReturnCorrectRomanNumeral" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A84D356B-B1F0-476C-B783-4590482CDD7F::.NETFramework,Version=v3.5::NUnitTests.Tests.ConverterIntToRomanTest.Convert_ShouldReturnCorrectRomanNumeral&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A84D356B-B1F0-476C-B783-4590482CDD7F::.NETFramework,Version=v3.5::NUnitTests.Tests.ConverterIntToRomanTest.Convert_ShouldReturnCorrectRomanNumeral(1,"I")&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8825d248_002D1497_002D4158_002D97f0_002D05c0b684a913/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Convert_ShouldReturnCorrectRomanNumeral #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A84D356B-B1F0-476C-B783-4590482CDD7F::.NETFramework,Version=v3.5::NUnitTests.Tests.ConverterIntToRomanTest.Convert_ShouldReturnCorrectRomanNumeral&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A84D356B-B1F0-476C-B783-4590482CDD7F::.NETFramework,Version=v3.5::NUnitTests.Tests.ConverterIntToRomanTest.Convert_ShouldReturnCorrectRomanNumeral(1,"I")&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eff7a408_002Da1d5_002D45b1_002Da4f2_002Df7a36befc8cf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from ConverterIntToRomanTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;A84D356B-B1F0-476C-B783-4590482CDD7F/d:Tests/f:ConverterIntToRomanTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f3c8f01f_002D44c0_002D4edb_002Dac59_002Ddae4606b24a8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from ConverterIntToRomanTest.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;A84D356B-B1F0-476C-B783-4590482CDD7F/d:Tests/f:ConverterIntToRomanTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

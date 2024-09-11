@@ -1,0 +1,6 @@
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\bin\Debug\TPZ.exe
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\bin\Debug\TPZ.pdb
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\obj\Debug\TPZ.csproj.AssemblyReference.cache
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\obj\Debug\TPZ.csproj.CoreCompileInputs.cache
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\obj\Debug\TPZ.exe
+C:\Users\palvl\OneDrive\Документи\1000$\PROJECTS\TPZ\obj\Debug\TPZ.pdb
